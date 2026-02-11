@@ -2,6 +2,8 @@
 # Project Overview
 This geospatial project identifies and visualizes the ten most lethal earthquakes recorded between 2000 and 2022. By overlaying catastrophic events with global fault line data, the map illustrates the direct relationship between tectonic boundaries and human vulnerability.
 
+Tool Used : QGIS
+
 # 2. Key Objectives
 Lethality Mapping: Isolate the top 10 events by total fatalities to highlight areas of highest humanitarian risk.
 
